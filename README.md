@@ -6,3 +6,4 @@ Hello World!
 Good Bye~~  
 Yeep!~!  
 특기 업데이트 !
+취미 페이지 추가
