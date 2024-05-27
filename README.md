@@ -4,4 +4,4 @@ Hi, I'm Sujin LEE
 I love Python!  
 Hello World!  
 Good Bye~~  
-Yeep!
+Yeep!~!  
