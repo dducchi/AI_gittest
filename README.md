@@ -5,3 +5,4 @@ I love Python!
 Hello World!  
 Good Bye~~  
 Yeep!~!  
+취미 페이지 추가
